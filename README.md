@@ -1,4 +1,4 @@
-online-anonimity
+online-anonymity
 ================
 
 Many people take their online privacy very seriously, concerned about who may be spying on them and reading their data. Some internet users turn to the TOR network.
